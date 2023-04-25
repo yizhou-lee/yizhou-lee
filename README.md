@@ -203,7 +203,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yizhou-lee&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=yizhou-lee&show_icons=true&locale=en&layout=compact"
     alt="yizhou-lee"
   />
 </p>
@@ -211,7 +211,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=yizhou-lee&show_icons=true&locale=en"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=yizhou-lee&show_icons=true&locale=en"
     alt="yizhou-lee"
   />
 </p>
