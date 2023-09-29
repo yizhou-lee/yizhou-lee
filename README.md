@@ -10,7 +10,7 @@
 
 - 🔭 I am currently a  UCL student in MSc Software System Engineering.
 - 🔎 I am looking for a job as a Software Engineer.
-- 📫 How to reach me: **yizhouli.apply@gmail.com**
+- 📫 How to reach me: **yizhou.lee@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
