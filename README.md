@@ -8,9 +8,8 @@
   />
 </p>
 
-- 🔭 I am currently a  UCL student in MSc Software System Engineering.
-- 🔎 I am looking for a job as a Software Engineer.
-- 📫 How to reach me: **yizhou.lee@outlook.com**
+- 🔭 I am currently a Golang developer in ISVison, a company in Hangzhou, China.
+- 📫 How to reach me: **joeyleedev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
